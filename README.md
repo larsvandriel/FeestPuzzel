@@ -23,8 +23,10 @@ De hints:
 -	‘m’ 1 ↘↘↙↘
 -	‘p’ 1 ↘↘↘↙
 -	‘l’ 1 ↘↘↘↘
+
 De opdracht:
 101010111100110111101111010000010101
+
 De oplossing:
 Als je alles goed volgt zou er de volgende oplossing uit moeten komen: **Example tree**.
 Nu je weet hoe je de puzzel ongeveer oplost is het de taak aan jouw. Vraag nu aan Lars de opdracht die je moet op zien te lossen.
