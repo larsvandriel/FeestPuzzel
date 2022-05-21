@@ -12,7 +12,9 @@ Nu ben ik de ergs**t**e gelukkig niet, dus ik ga je een hint geven hoe de belang
 
 Iedere hint zal bestaan uit een teken (letter, cijfer, symbool of ander teken je kunt typen, bijvoorbeeld ENTER voor een nieuwe regel). Bij dit teken staat een cijfer. Het cijfer geeft aan hoe vaak het teken in de uiteindelijke oplossing te vinden is. Ook bevat de hint een combinatie van meerdere pijlen naar links of naar rechts. Iedere pijl naar links betekend een 0 en iedere pijl naar rechts betekend een 1. ***De volgorde van de pijlen is heel belangrijk!***
 Hieronder vind je een klein voorbeeld:
+
 De hints:
+
 -	‘e’ 3 ↙↙
 -	‘Space’ 1 ↙↘↙
 -	‘t’ 1 ↙↘↘
